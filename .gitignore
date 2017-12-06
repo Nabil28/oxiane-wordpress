@@ -53,6 +53,11 @@ fabric.propertie
 # Vagrant
 .vagrant/*
 
+# Large files
+provisioning/template/files/*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
