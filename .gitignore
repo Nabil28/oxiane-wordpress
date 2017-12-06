@@ -54,7 +54,7 @@ fabric.propertie
 .vagrant/*
 
 # Large files
-provisioning/template/files/*
+provisioning/templates/files/*
 
 
 
